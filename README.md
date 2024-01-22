@@ -19,7 +19,8 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
 
 
-<p align="center">(https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif)" width="300"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Maruf-Mia/Maruf-Mia/main/Codding%20Image.gif " width="300"/></p>
+
 
 
 I am a Full Stack Developer with a huge love for Recat.js, Next.js, Node (Express.js), Laravel, RDBMS, TailwindCSS, and Web Architecture. Currently, **I'm open to work and employment opportunities**.
