@@ -23,7 +23,7 @@
 
 
 
-I am a Full Stack Developer with a huge love for Recat.js, Next.js, Node (Express.js), Laravel, RDBMS, TailwindCSS, and Web Architecture. Currently, **I'm open to work and employment opportunities**.
+I am a Full Stack Developer with a huge love for Recat.js, Next.js, Node (Express.js), Laravel, RDBMS, TailwindCSS, and Web Architecture. Currently, **I'm prepared to work to explore possibilities for employment**.
 
 I have completed my Bachelor of Science in Computer Science and Engineering from American International University Bangladesh (AIUB). I Actively code on Laravel, MERN Stack, and APIs (in-house, end-user products, and consumers) every day.
 
